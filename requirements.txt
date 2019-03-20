@@ -8,3 +8,4 @@ python-bugzilla==2.3.0
 python-fedora==1.0.0
 requests>=2.22.0
 six==1.14.0
+packitos
